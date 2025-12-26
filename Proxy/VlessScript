@@ -1,1 +1,1 @@
-bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh)
+bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
